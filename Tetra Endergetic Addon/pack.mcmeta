@@ -1,0 +1,6 @@
+{
+    "pack": {
+        "pack_format": 6,
+        "description": "Adds support for Endergetic to Tetra, at this time just Poise"
+    }
+}
